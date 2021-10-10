@@ -1,0 +1,168 @@
+Translated by Google Translate.
+
+===============
+≫UPDATE≪
+===============
+v43.1 | 08.24.21
+
+≫ The 'Server Sight' parameter in the settings is now saved.
+≫ Now, when aiming at a vehicle or a player, the dot on the crosshair turns green.
+≫ Anti-cheat no longer kills players who are hit by minigun bullets.
+≫ Other changes and fixes.
+
+# Updates @ rusjc
+
+
+
+===============
+≫UPDATE≪
+===============
+v43.0 | 08/17/21
+
+Updated server sight:
+- The scope is no longer blurry at high screen resolutions.
+- Changed hook indicator animation.
+- Fixed intermittent flickering in the hook indicator animation.
+- Other sight improvements.
+≫ Server crosshair is now enabled for everyone by default.
+≫ Added laser for sniper rifle, which turns on while aiming.
+≫ Updated quest markers on the minimap.
+≫ Peaceful mode can no longer be turned on while in battle with players for 10 seconds.
+≫ Hilka can no longer be used while in combat with players.
+≫ Removed CD to disable peaceful mode when you are already in it.
+≫ Cooldown time for turning on peaceful mode has been reduced to 10 seconds.
+≫ Updated kill chat:
+- Updated death messages.
+- Changed position, and also removed player avatars.
+≫ Now, when the main menu is open, as well as other windows, the control will not be completely blocked, and you can safely move around.
+≫ CD for ordering transport has been reduced to 5 seconds.
+≫ Vertical takeoff for aircraft is now enabled by default.
+≫ Vertical takeoff and reverse are now smoother and slower.
+≫ Pong tooltip color changed to white.
+≫ Other changes and fixes.
+
+# Updates @ rusjc
+
+
+
+===============
+≫UPDATE≪
+===============
+v42.2 | 07/01/21
+
+≫ The player's health bar is now hidden when in peaceful mode.
+≫ Added the ability to disable messages for players entering / leaving the server.
+≫ Fixed crooked resizing of content in the message box.
+≫ Changed the size of the 'Abilities' window.
+≫ Added the ability to send money through the menu (B> Black market> Rest> Actions> Send money).
+- P.S. The command to send money has been removed.
+≫ Added tutorials when opening new abilities.
+≫ Fixed display of minutes of game time in the server menu.
+≫ Other changes and fixes.
+
+# Updates @ rusjc
+
+
+
+===============
+≫UPDATE≪
+===============
+v42.1 | 06/25/21
+
+≫ Updated free camera mode:
+- Added hints about management.
+- Added frames for photos.
+- Added the ability to change the camera angle.
+- Removed the ability to create and play trajectories.
+≫ Plates with a player's message now appear only when he writes to the local chat.
+≫ Fixed local chat.
+≫ Returned the missing 16th level.
+≫ Quest markers are now hidden when using the complete hiding of the interface (in the pause menu, PDA, free camera, etc.).
+≫ Other changes and fixes.
+
+# Updates @ rusjc
+
+
+
+===============
+≫UPDATE≪
+===============
+v42.0 | 05/28/21
+
+≫ To use Jesus mode, you now need to unlock it in the abilities menu.
+≫ The counter of found boxes now shows the amount you collected, rather than the total of all players.
+≫ Ninja effect when teleporting now works everywhere, not just when teleporting to the player.
+≫ Added hook damage to the 'Q' button.
+≫ The price for installing a home point has been reduced to $ 1.500.
+≫ Added a leaderboard in the Wheelbarrow Fights mode.
+≫ Fixed jerking of the GPS arrow in races.
+≫ Other changes and fixes.
+
+# Updates @ rusjc
+
+
+
+===============
+≫UPDATE≪
+===============
+v41.1 | 05/22/21
+
+≫ Added a button to hide the player marker in the server menu.
+≫ Now, to set up a point at home, $ 5,000 is required.
+≫ Improved English localization.
+≫ Other changes and fixes.
+
+# Updates @ rusjc
+
+
+
+===============
+≫UPDATE≪
+===============
+v41.0 | 01/05/21
+
+≫ All the functionality of the main menu has been moved to the menu on the 'B' button.
+≫ Minor changes in the server menu.
+≫ Updated sky customization.
+- Added 'Anime' sky and 'Dungeon Master'.
+- Added transfusion of colors for the sky.
+- Updated sky 'Ahhh'.
+≫ Basic settings are now saved.
+≫ Updated and returned courier missions.
+≫ Added casino (currently only one mode is available for the game).
+≫ The reward for completing daily tasks has been increased to $ 10,000.
+≫ Other changes and fixes.
+
+# Updates @ rusjc
+
+
+
+===============
+≫UPDATE≪
+===============
+v40.1 | 17/02/21
+
+≫ Added shadows for text in the upper status bar (ie indicators Peaceful | Jesus | / hidetag at the top of the screen).
+I don't know how it will be for you, but it looks like it looks better.
+
+≫ Added points in the balance indicator to separate the digits of numbers.
+Just a couple of seemingly meaningless points, but how they make life easier.
+
+≫ Added messages with clarified reasons for losing the throne.
+Now, right in the chat, you will see how the player crashes into his own trail and can laugh at him together.
+
+≫ Updated FAQ in the help menu with more details on how to make money.
+We know perfectly well that no one will read this, but perhaps someone will randomly get there and master a couple of lines.
+
+≫ Added command / rnb for admins, which enables transfusion of vehicle colors.
+Now you can immediately recognize the orientation of the LGBT admin.
+
+≫ Added saving weapons after exiting the server.
+Now you don't need to take a weapon every time, feel like a king for whom everything is done by the server.
+
+≫ Tetris can now be closed with the 'Esc' key.
+You will no longer have to fall into panic and depression because you do not know how to turn off Tetris. Just hit 'Esc' and the problem is solved.
+
+≫ Other changes and fixes.
+
+# Updates @ rusjc
