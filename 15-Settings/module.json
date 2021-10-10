@@ -1,0 +1,21 @@
+	{
+  "info": {
+    "author": "Hallkezz",
+    "author_url": "",
+    "description": "Im ebal Tarasav",
+    "name": "15-Settings"
+   },
+
+   "resources": {
+	   
+	"BackgroundImage"			: 		"https://i.imgur.com/S0U7hAB.jpg",
+	"BackgroundImageTw"			: 		"https://i.imgur.com/uYufxSV.png",
+	"BackgroundImageTh"			: 		"https://i.imgur.com/c8fYro9.png",
+	"BackgroundImageFo"			: 		"https://i.imgur.com/TH5aRr4.jpg",
+	"BackgroundImageFi"			: 		"https://i.imgur.com/C4X2n6V.jpg",
+  "BackgroundImageSi"			: 		"https://i.imgur.com/ji62iJX.png",
+  "Anime1"			: 		"https://i.imgur.com/5D0gPVJ.png",
+  "Anime2"			: 		"https://i.imgur.com/LMzhRH8.png"
+
+	}
+}
