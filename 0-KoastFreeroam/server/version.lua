@@ -6,7 +6,7 @@ function Version:__init()
     Events:Subscribe( "ModuleLoad", self, self.ModuleLoad )
 
     self.ver = "43.1"
-    self.build = "250921.0"
+    self.build = "021221.0"
 end
 
 function Version:ServerStart()

@@ -101,7 +101,7 @@ function WarpGui:Lang()
 	self.tag = "[Teleport] "
 	self.w = "Wait "
 	self.ws = " seconds to send the request again!"
-	self.gonnawarp = " sent you a teleport request. Type /warp or press 'B', to accept."
+	self.gonnawarp = " sent you a teleport request. Press 'B' and go to the 'Teleportation' menu to accept."
 	self.window:SetTitle( "▧ Teleport to players" )
 	self.whitelistAllCheckbox:GetLabel():SetText( "Allow Auto-TP for all" )
 	self.blacklistAllCheckbox:GetLabel():SetText( "Do not disturb" )

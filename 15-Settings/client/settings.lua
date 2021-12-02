@@ -77,7 +77,7 @@ end
 function Settings:Lang()
 	self.window:SetTitle( "▧ Settings" )
 	self.hidetexttip:SetText( "Press F11 to hide/show UI" )
-	self.hidetext:SetText( "Use full UI hiding" )
+	self.hidetext:SetText( "Used full UI hiding" )
 	self.hidetexttip:SizeToContents()
 	self.hidetext:SizeToContents()
 	self.buttonBoost:SetText( "Boost setting (for vehicle)" )

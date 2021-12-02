@@ -589,7 +589,6 @@ end
 
 function Abilities:Render()
     if self.window then
-        self.window:SetPositionRel( Vector2( 0.72, 0.5 ) - self.window:GetSizeRel()/2 )
         self:UpdateButtons()
     end
 
